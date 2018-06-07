@@ -5,7 +5,7 @@ This is based off of the built-in im-status plugin and has some borrowed code; c
 ## Usage
 - Install `pypresence`:
 
-`pip install pypresence`
+`pip3 install pypresence`
 (You can try it with sudo if it does not work)
 
 - Clone the repo:
